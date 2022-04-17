@@ -2,7 +2,8 @@ echo OFF
 
 echo. -------------------------------------------------------------
 echo. Script creado por Juan Carlos.
-echo. Ultima fecha de modificacion 03-04-2022
+echo. Ultima fecha de modificacion 17-04-2022
+echo. Puede encontrarme en GitHub como: https://github.com/ityoup
 echo. -------------------------------------------------------------
 
 NET SESSION >nul 2>&1
