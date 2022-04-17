@@ -53,7 +53,7 @@ echo Chocolatey is ready to begin installing packages!
 pause
 
 @rem ----[Si llegas a editar el codigo, solo escribe el comando que quieras instalar con chocolatey] ----
-
+@rem ----[Es importante recalcar que ya chocolatey se instala de manera automatica una vez que el codigo sea ejecutado]
 
 choco install tightvnc
 choco install googlechrome
