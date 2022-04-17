@@ -62,3 +62,4 @@ choco install 7zip
 choco install discord
 choco install word
 choco install powerpoint
+choco install adobe
