@@ -64,3 +64,4 @@ choco install 7zip
 choco install word
 choco install powerpoint
 choco install adobe
+choco install microsoft-edge
